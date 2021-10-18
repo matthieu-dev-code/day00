@@ -1,0 +1,347 @@
+  130  cd covers
+  131  cd contructeurs
+  132  ls
+  133  mkdir sega
+  134  cd sega
+  135  mkdir consoles
+  136  cd consoles
+  137  mkdir dreamcast
+  138  cd ..
+  139  cd ..
+  140  cd ..
+  141  mv dc_jetsetradio_eu_front.jpg jet_set_radio.jpg
+  142  mv jet_set_radio.jpg contructeurs/sega/consoles/dreamcast
+  143  mv dc_shenmue_eu.jpg shenmue.jpg
+  144  mv shenmue.jpg contructeurs/sega/consoles/dreamcast
+  145  history
+    1  ls
+    2  ls /desktop
+    3  ls desktop
+    4  ls desktop/covers
+    5  cd desktop
+    6  cd covers
+    7  ls
+    8  mkdir contructeurs
+    9  ls
+   10  cd constructeurs
+   11  ls
+   12  cd constructeurs
+   13  cd contructeurs
+   14  mkdir sony
+   15  mkdir nintendo
+   16  mkdir microsft
+   17  mkdi sega
+   18  ls
+   19  mv microsft microsoft
+   20  ls
+   21  cd sony
+   22  mkdir ps4
+   23  mkdir ps5
+   24  cd ps4
+   25  cd .
+   26  cd ..
+   27  cd ..
+   28  cd ..
+   29  ls
+   30  mv playstation_4.unchartedthelostlegacy.jpg uncharted4
+   31  ls
+   32  mv uncharted4 sony/ps4
+   33  mv uncharted4 sony/ps4
+   34  mv desktop/covers/unchated4 desktop/covers/sony/ps4
+   35  mv
+   36  mv uncharted4 ... sony/ps4
+   37  mv uncharted4 /sony/ps4
+   38  mv uncharted4 "sony/ps4"
+   39  mv file uncharted4 sony
+   40  mv uncharted4 sony
+   41  ls
+   42  mv playstation_4.unchartedthelostlegacy.jpg uncharted4
+   43  mv unchated4 /sony/ps4
+   44  mv /uncharted4 /sony/ps4
+   45  mv uncharted4 uncharted
+   46  mv uncharted 'sony/ps4'
+   47  mv uncharted '/sony/ps4'
+   48  mv uncharted contructeurs/sony/ps4
+   49  cd contructeurs
+   50  cd sony
+   51  ps4
+   52  cd ps4
+   53  ls
+   54  mv uncharted uncharted.jpg
+   55  cd ..
+   56  cd..
+   57  cd ..
+   58  cd ..
+   59  mv ps4_fifa14.jpg fifa14.jpg
+   60  mv fifa14.jpg contructeurs/sony/ps4
+   61  mv playstation_5.farcry6.jpg farcry6.jpg
+   62  mv farcry6.jpg contructeurs/sony/ps5
+   63  cd contructeurs
+   64  cd sony
+   65  mkdir consoles portables
+   66  mr consoles
+   67  rm consoles
+   68  rm consoles
+   69  rm
+   70  rm -i consoles
+   71  ls
+   72  rm consoles
+   73  sudo rm consoles
+   74  mkdir consoles_portables
+   75  cd ..
+   76  ls
+   77  cd nintendo
+   78  ls
+   79  mkdir consoles consoles_portables
+   80  cd consoles
+   81  mkdir gamecube
+   82  cd ..
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  mv gc_supermariosunshine.jpg supermariosunshine.jpg
+   87  mv supermariosunshine.jpg contructeurs/nintendo/consoles/gamecube
+   88  cd contructeurs
+   89  cd nintendo/consoles_portables
+   90  mkdir game_boy
+   91  ls
+   92  cd ..
+   93  cd ..
+   94  cd ..
+   95  mv gameboy.pokmonred.jpg pokemon_red
+   96  mv pokemon_red.jpg
+   97  mv pokemon_red pokemon_red.jpg
+   98  mv pokemon_red.jpg contructeurs/nintendo/consoles_portables/game_boy
+   99  mv gb_pokemonblue_eu.jpg pokemon_blue.jpg
+  100  mv pokemon_blue.jpg contructeurs/nintendo/consoles_portables/game_boy
+  101  ls
+  102  cd contructeurs/nintendo/consoles_portables/game_boy
+  103  ls
+  104  ls
+  105  cd..
+  106  cd ..
+  107  cd ..
+  108  cd ..
+  109  cd microsoft
+  110  mkdir consoles
+  111  cd consoles
+  112  mkdir xbox
+  113  mkdir xbox360
+  114  cd ..
+  115  cd ..
+  116  cd ..
+  117  mv xbox_deadtorights.jpg dead_to_rights.jpg
+  118  mv dead_to_rights.jpg contructeurs/microsoft/consoles/xbox
+  119  ls
+  120  mv xbox_halo_2.jpg halo_combat_evoled.jpg
+  121  halols
+  122  mv halo_combat_evoled.jpg contructeurs/microsoft/consoles/xbox
+  123  mv x360_callfoduty3.jpg callofduty.jpg
+  124  mv callofduty.jpg callofduty
+  125  mv callofduty callofduty3.jpg
+  126  mv callofduty3.jpg contructeurs/microsoft/consoles/xbox360
+  127  mv x360_callofduty4.jpg callofduty4.jpg
+  128  mv callofduty4.jpg contructeurs/microsoft/consoles/xbox360
+  129  cd ..
+  130  cd covers
+  131  cd contructeurs
+  132  ls
+  133  mkdir sega
+  134  cd sega
+  135  mkdir consoles
+  136  cd consoles
+  137  mkdir dreamcast
+  138  cd ..
+  139  cd ..
+  140  cd ..
+  141  mv dc_jetsetradio_eu_front.jpg jet_set_radio.jpg
+  142  mv jet_set_radio.jpg contructeurs/sega/consoles/dreamcast
+  143  mv dc_shenmue_eu.jpg shenmue.jpg
+  144  mv shenmue.jpg contructeurs/sega/consoles/dreamcast
+  145  history
+  146  history >> commands.txt
+  147  cat
+  148  cat commands.txt
+    1  ls
+    2  ls /desktop
+    3  ls desktop
+    4  ls desktop/covers
+    5  cd desktop
+    6  cd covers
+    7  ls
+    8  mkdir contructeurs
+    9  ls
+   10  cd constructeurs
+   11  ls
+   12  cd constructeurs
+   13  cd contructeurs
+   14  mkdir sony
+   15  mkdir nintendo
+   16  mkdir microsft
+   17  mkdi sega
+   18  ls
+   19  mv microsft microsoft
+   20  ls
+   21  cd sony
+   22  mkdir ps4
+   23  mkdir ps5
+   24  cd ps4
+   25  cd .
+   26  cd ..
+   27  cd ..
+   28  cd ..
+   29  ls
+   30  mv playstation_4.unchartedthelostlegacy.jpg uncharted4
+   31  ls
+   32  mv uncharted4 sony/ps4
+   33  mv uncharted4 sony/ps4
+   34  mv desktop/covers/unchated4 desktop/covers/sony/ps4
+   35  mv
+   36  mv uncharted4 ... sony/ps4
+   37  mv uncharted4 /sony/ps4
+   38  mv uncharted4 "sony/ps4"
+   39  mv file uncharted4 sony
+   40  mv uncharted4 sony
+   41  ls
+   42  mv playstation_4.unchartedthelostlegacy.jpg uncharted4
+   43  mv unchated4 /sony/ps4
+   44  mv /uncharted4 /sony/ps4
+   45  mv uncharted4 uncharted
+   46  mv uncharted 'sony/ps4'
+   47  mv uncharted '/sony/ps4'
+   48  mv uncharted contructeurs/sony/ps4
+   49  cd contructeurs
+   50  cd sony
+   51  ps4
+   52  cd ps4
+   53  ls
+   54  mv uncharted uncharted.jpg
+   55  cd ..
+   56  cd..
+   57  cd ..
+   58  cd ..
+   59  mv ps4_fifa14.jpg fifa14.jpg
+   60  mv fifa14.jpg contructeurs/sony/ps4
+   61  mv playstation_5.farcry6.jpg farcry6.jpg
+   62  mv farcry6.jpg contructeurs/sony/ps5
+   63  cd contructeurs
+   64  cd sony
+   65  mkdir consoles portables
+   66  mr consoles
+   67  rm consoles
+   68  rm consoles
+   69  rm
+   70  rm -i consoles
+   71  ls
+   72  rm consoles
+   73  sudo rm consoles
+   74  mkdir consoles_portables
+   75  cd ..
+   76  ls
+   77  cd nintendo
+   78  ls
+   79  mkdir consoles consoles_portables
+   80  cd consoles
+   81  mkdir gamecube
+   82  cd ..
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  mv gc_supermariosunshine.jpg supermariosunshine.jpg
+   87  mv supermariosunshine.jpg contructeurs/nintendo/consoles/gamecube
+   88  cd contructeurs
+   89  cd nintendo/consoles_portables
+   90  mkdir game_boy
+   91  ls
+   92  cd ..
+   93  cd ..
+   94  cd ..
+   95  mv gameboy.pokmonred.jpg pokemon_red
+   96  mv pokemon_red.jpg
+   97  mv pokemon_red pokemon_red.jpg
+   98  mv pokemon_red.jpg contructeurs/nintendo/consoles_portables/game_boy
+   99  mv gb_pokemonblue_eu.jpg pokemon_blue.jpg
+  100  mv pokemon_blue.jpg contructeurs/nintendo/consoles_portables/game_boy
+  101  ls
+  102  cd contructeurs/nintendo/consoles_portables/game_boy
+  103  ls
+  104  ls
+  105  cd..
+  106  cd ..
+  107  cd ..
+  108  cd ..
+  109  cd microsoft
+  110  mkdir consoles
+  111  cd consoles
+  112  mkdir xbox
+  113  mkdir xbox360
+  114  cd ..
+  115  cd ..
+  116  cd ..
+  117  mv xbox_deadtorights.jpg dead_to_rights.jpg
+  118  mv dead_to_rights.jpg contructeurs/microsoft/consoles/xbox
+  119  ls
+  120  mv xbox_halo_2.jpg halo_combat_evoled.jpg
+  121  halols
+  122  mv halo_combat_evoled.jpg contructeurs/microsoft/consoles/xbox
+  123  mv x360_callfoduty3.jpg callofduty.jpg
+  124  mv callofduty.jpg callofduty
+  125  mv callofduty callofduty3.jpg
+  126  mv callofduty3.jpg contructeurs/microsoft/consoles/xbox360
+  127  mv x360_callofduty4.jpg callofduty4.jpg
+  128  mv callofduty4.jpg contructeurs/microsoft/consoles/xbox360
+  129  cd ..
+  130  cd covers
+  131  cd contructeurs
+  132  ls
+  133  mkdir sega
+  134  cd sega
+  135  mkdir consoles
+  136  cd consoles
+  137  mkdir dreamcast
+  138  cd ..
+  139  cd ..
+  140  cd ..
+  141  mv dc_jetsetradio_eu_front.jpg jet_set_radio.jpg
+  142  mv jet_set_radio.jpg contructeurs/sega/consoles/dreamcast
+  143  mv dc_shenmue_eu.jpg shenmue.jpg
+  144  mv shenmue.jpg contructeurs/sega/consoles/dreamcast
+  145  history
+  146  history >> commands.txt
+  147  cat
+  148  cat commands.txt
+  149  history 1 >> commands.txt
+  150  cat commands.txt
+  151  clear
+  152  cat commands.txt
+  153  ls
+  154  mv dc_jetgrindradio_10.jpg contructeurs/sega/consoles/dreamcast
+  155  mv dc_shenmueii_5.jpg contructeurs/sega/consoles/dreamcast
+  156  mv x360_callofduty2.jpg contructeurs/microsoft/consoles/xbox360
+  157  mv x360_callofdutyblackopsii.jpg contructeurs/microsoft/consoles/xbox360
+  158  ls
+  159  ls
+  160  mv gc_mariokartdoubledash.jpg contructeurs/nintendo/consoles/gamecube
+  161  ls
+  162  mv playstation_4.assassinscreedodyssey.jpg contructeurs/sony/ps4
+  163  ls
+  164  mv playstation_4.watchdogs2.jpg contructeurs/sony/ps4
+  165  mv gb_pokemongreen_3.jpg contructeurs/nintendo/consoles_portables/game_boy
+  166  ls
+  167  mv xbox_halo2.jpg contructeurs/microsoft/consoles/xbox
+  168  mv xbox_needforspeedunderground2.jpg contructeurs/microsoft/consoles/xbox
+  169  ls
+  170  mv playstation_5.assassinscreedvalhalla.jpg contructeurs/sony/ps5
+  171  ls
+  172  mv gbc_pokemongold.jpg contructeurs/nintendo/consoles_portables/game_boy/
+  173  ls
+  174  mv playstation_5.residentevilvillage_.jpg contructeurs/sony/ps5
+  175  ls
+  176  mv xbox_jetsetradiofuture_2.jpg contructeurs/microsoft/consoles/xbox/
+  177  ls
+  178  mv xbox_360.fableiii.jpg contructeurs/microsoft/consoles/xbox360
+  179  ls
+  180  mv gb_pokemonyellow_au.jpg contructeurs/nintendo/consoles_portables/game_boy
+  181  ls
+  182  mv xbox_deadoralive3.jpg contructeurs/microsoft/consoles/xbox
+  183  mv xbox_defjamfightforny.jpg contructeurs/microsoft/consoles/xbox
