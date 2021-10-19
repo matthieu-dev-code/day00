@@ -1,0 +1,16 @@
+   50  history >> magic.txt
+   51  cd ..
+   52  cd ex02
+   53  head tcpd_department.csv
+   54  awk
+   55  head -n 5
+   56  head -n5 tcpd_department.csv
+   57  head -95 tcpd_department.csv
+   58  awk
+   59  awk -F Officer tcpd_department.csv
+   60  awk -f Officer tcpd_department.csv
+   61  awk  Officer tcpd_department.csv
+   62  awk tcpd_department.csv
+   63  awk -F ',' '$2 == "Officer"'
+   64  awk -F ',' '$2 == "Officer"' tcpd_department.csv
+   65  awk -F ',' '$1 == "Cameron"' tcpd_department.csv

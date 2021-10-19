@@ -1,0 +1,32 @@
+   28  ls
+   29  cat deposition_Joe_Rugiani.txt
+   30  sed '1d' deposition_Joe_Rugiani.txt
+   31  sed '1d' deposition_Joe_Rugiani.txt
+   32  sed '1d' deposition_Joe_Rugiani.txt
+   33  sed '1d' deposition_Joe_Rugiani.txt
+   34  sed '1d' deposition_Joe_Rugiani.txt
+   35  sed '1d' deposition_Joe_Rugiani.txt
+   36  sed
+   37  head deposition_Joe_Rugiani.txt
+   38  man head
+   39  head deposition_Joe_Rugiani.txt
+   40  head -n9
+   41  head -n9 deposition_Joe_Rugiani.txt
+   42  head -n9 deposition_Joe_Rugiani.txt
+   43  cat deposition_Joe_Rugiani.txt
+   34  sed '1d' deposition_Joe_Rugiani.txt
+   35  sed '1d' deposition_Joe_Rugiani.txt
+   36  sed
+   37  head deposition_Joe_Rugiani.txt
+   38  man head
+   39  head deposition_Joe_Rugiani.txt
+   40  head -n9
+   41  head -n9 deposition_Joe_Rugiani.txt
+   42  head -n9 deposition_Joe_Rugiani.txt
+   43  cat deposition_Joe_Rugiani.txt
+   44  history > magic.txt
+   45  s/motifcadillac/motifchevrolet deposition_Joe_Rugiani.txt
+   46  man sed
+   47  sed 's/cadillac/chevrolet/g' deposition_Joe_Rugiani.txt
+   48  sed 's/jaune/impala/g' deposition_Joe_Rugiani.txt
+   49  sed 's/cadillac/chevrolet/g' deposition_Joe_Rugiani.txt| sed 's/jaune/impala/g' deposition_Joe_Rugiani.txt
