@@ -1,0 +1,160 @@
+    1  ls
+    2  cd Documents
+    3  ls
+    4  cd GitHub
+    5  cd day01
+    6  ls
+    7  cd ex05
+    8  ls
+    9  cd ..
+   10  mkdir ex06
+   11  cd ex06
+   12  $date
+   13  date
+   14  echo "Nous sommes le" date
+   15  "Nous sommes le " date
+   16  print nous sommes le " date
+   17  print "nous sommes le" date
+   18  echo "nous sommes le" | date
+   19  "nous sommes le " date
+   20  echo "nous sommes le date"
+   21  date
+   22  $date
+   23  echo date
+   24  echo $date
+   25  echo "nous sommes le" | $date
+   26  date+ nous sommes le 
+   27  date + nous sommes le
+   28  date + "nous sommes le"
+   29  date + "nous sommes le %a. %d %b %Y %T %Z
+   30  date + "nous sommes le %a. %d %b. %Y %T %Z"
+   31  date + "nous sommes le %a. %d %b. %Y %T %Z"
+   32  date +"nous sommes le %a. %d %b. %Y %T %Z"
+   33  date +"nous sommes le %a. %d %b. %Y %T %Z" > time.sh
+   34  cd ..
+   35  ls
+   36  mkdir ex07
+   37  cd ex07
+   38  curl wttr.in/Lyon
+   39  curl wttr.in/Lyon > meteo.sh
+   40  cd ..
+   41  mkdir ex08
+   42  cd ..
+   43  ls
+   44  ls
+   45  cd day00
+   46  ls
+   47  cd rush00
+   48  ls
+   49  cd ex03
+   50  ls
+   51  cd Murder_in_terminal_city
+   52  ls
+   53  cd mystery
+   54  ls
+   55  cd crimescene
+   56  drep CLOUE crimescene
+   57  dret CLOUE crimescene
+   58  grep CLOUE crimescene
+   59  grep crimescene CLOUE
+   60  grep CLUE crimescene
+   61  ls
+   62  grep Annabel peuple
+   63  grep Annabel people
+   64  cd streets
+   65  grep INTERVIEW Hart Place
+   66  grep INTERVIEW Hart
+   67  grep INTERVIEW Hart_Place
+   68  cat INTERVIEW#47246024
+   69  cat INTERVIEW_47246024
+   70  cat INTERVIEW #47246024
+   71  cat INTERVIEW 47246024
+   72  cat INTERVIEW-47246024
+   73  cat interview-47246024
+   74  ls
+   75  cd ..
+   76  cd interviews
+   77  cat interview-47246024
+   78  cd ..
+   79  grep Annabel people
+   80  cd ..
+   81  ls
+   82  cd mystery
+   83  ls
+   84  cd interviews
+   85  ls
+   86  cd..
+   87  cd ..
+   88  cd streets
+   89  grep INTERVIEW Haley_Street
+   90  grep INTERVIEW Buckingham_Place
+   91  grep INTERVIEW Mattapan_Street
+   92  cd ..
+   93  ls
+   94  cd streets
+   95  grep interview-871877
+   96  cat interview-871877
+   97  cd ..
+   98  cd interviews
+   99  cat interview-871877
+  100  cat interview-699607
+  101  cat interview-9437737
+  102  cd ..
+  103  ls
+  104  grep -A5 L337 vehicles
+  105  grep Katie Park people
+  106  Jaqui Maker people
+  107  Jacqui Maker people
+  108  grep Jacqui Maker people
+  109  grep Jeremy Bowers people
+  110  grep Joe Germuska people
+  111  grep Miranda Mulligan people
+  112  grep Al Shaw people
+  113  grep Brian Boyer people
+  114  grep Matt Waite people
+  115  grep Erika Owens people
+  116  grep John Keefe people
+  117  grep Mike Bostock people
+  118  ls
+  119  cd memberships
+  120  ls
+  121  cd AAA
+  122  cat Jeremy Browers
+  123  cat Jeremy Browers AAA
+  124  grep Jeremy Browers AAA
+  125  grep Jeremy Browers Museum_of_Bash_History
+  126  grep Jeremy Browers Delta_SkyMiles
+  127  grep Joe Germuska Delta_SkyMiles
+  128  grep Miranda Mulligan Delta_SkyMiles
+  129  grep Miranda Mulligan AAA
+  130  grep Miranda Mulligan Museum_of_Bash_History
+  131  grep Brian Boyer Museum_of_Bash_History
+  132  grep Brian Boyer AAA
+  133  grep Brian Boyer Delta_SkyMiles
+  134  grep Matt Waite  Delta_SkyMiles
+  135  grep Matt Waite AAA
+  136  grep Matt Waite Museum_of_Bash_History
+  137  grep John Keefe Museum_of_Bash_History
+  138  grep Erika Owens Museum_of_Bash_History
+  139  grep Erika Museum_of_Bash_History
+  140  grep Mike Bostock Museum_of_Bash_History
+  141  grep Mike Bostock AAA
+  142  grep Mike Bostock Delta_SkyMiles
+  143  cd ..
+  144  ls
+  145  cd interviews
+  146  ls
+  147  cd ..
+  148  ls
+  149  cd streets
+  150  ls
+  151  cat Dunstable_Road
+  152  cat Wentworth_Street
+  153  cat Alpine_Street
+  154  cd ..
+  155  cd interviews
+  156  cat interview-9620713
+  157  cat interview-79667499
+  158  cd ..
+  159  cd ..
+  160  cd ..
